@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>EmailAccountDescription</key>
+			<string>Canyons - Todd</string>
+			<key>EmailAccountName</key>
+			<string>Todd Hutchinson</string>
+			<key>EmailAccountType</key>
+			<string>EmailTypeIMAP</string>
+			<key>EmailAddress</key>
+			<string>todd@thecanyonsatscenicloop.com</string>
+			<key>IncomingMailServerAuthentication</key>
+			<string>EmailAuthPassword</string>
+			<key>IncomingMailServerHostName</key>
+			<string>mail.thecanyonsatscenicloop.com</string>
+			<key>IncomingMailServerPortNumber</key>
+			<integer>993</integer>
+			<key>IncomingMailServerUseSSL</key>
+			<true/>
+			<key>IncomingMailServerUsername</key>
+			<string>todd@thecanyonsatscenicloop.com</string>
+			<key>OutgoingMailServerAuthentication</key>
+			<string>EmailAuthPassword</string>
+			<key>OutgoingMailServerHostName</key>
+			<string>mail.thecanyonsatscenicloop.com</string>
+			<key>OutgoingMailServerPortNumber</key>
+			<integer>465</integer>
+			<key>OutgoingMailServerUseSSL</key>
+			<true/>
+			<key>OutgoingMailServerUsername</key>
+			<string>todd@thecanyonsatscenicloop.com</string>
+			<key>OutgoingPasswordSameAsIncomingPassword</key>
+			<true/>
+			<key>PayloadDisplayName</key>
+			<string>Canyons - Todd</string>
+			<key>PayloadIdentifier</key>
+			<string>com.thecanyonsatscenicloop.mail.todd</string>
+			<key>PayloadType</key>
+			<string>com.apple.mail.managed</string>
+			<key>PayloadUUID</key>
+			<string>C083DC86-B706-4C37-AFED-3F66D6701CE6</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PreventAppSheet</key>
+			<false/>
+			<key>PreventMove</key>
+			<false/>
+			<key>SMIMEEnabled</key>
+			<false/>
+			<key>allowMailDrop</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>EmailAccountDescription</key>
+			<string>Canyons - Form</string>
+			<key>EmailAccountName</key>
+			<string>Canyons Form</string>
+			<key>EmailAccountType</key>
+			<string>EmailTypeIMAP</string>
+			<key>EmailAddress</key>
+			<string>form@thecanyonsatscenicloop.com</string>
+			<key>IncomingMailServerAuthentication</key>
+			<string>EmailAuthPassword</string>
+			<key>IncomingMailServerHostName</key>
+			<string>mail.thecanyonsatscenicloop.com</string>
+			<key>IncomingMailServerPortNumber</key>
+			<integer>993</integer>
+			<key>IncomingMailServerUseSSL</key>
+			<true/>
+			<key>IncomingMailServerUsername</key>
+			<string>form@thecanyonsatscenicloop.com</string>
+			<key>OutgoingMailServerAuthentication</key>
+			<string>EmailAuthPassword</string>
+			<key>OutgoingMailServerHostName</key>
+			<string>mail.thecanyonsatscenicloop.com</string>
+			<key>OutgoingMailServerPortNumber</key>
+			<integer>465</integer>
+			<key>OutgoingMailServerUseSSL</key>
+			<true/>
+			<key>OutgoingMailServerUsername</key>
+			<string>form@thecanyonsatscenicloop.com</string>
+			<key>OutgoingPasswordSameAsIncomingPassword</key>
+			<true/>
+			<key>PayloadDisplayName</key>
+			<string>Canyons - Form</string>
+			<key>PayloadIdentifier</key>
+			<string>com.thecanyonsatscenicloop.mail.form</string>
+			<key>PayloadType</key>
+			<string>com.apple.mail.managed</string>
+			<key>PayloadUUID</key>
+			<string>C5E2E875-F3B3-4F2C-BC70-C107438C84A5</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PreventAppSheet</key>
+			<false/>
+			<key>PreventMove</key>
+			<false/>
+			<key>SMIMEEnabled</key>
+			<false/>
+			<key>allowMailDrop</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>EmailAccountDescription</key>
+			<string>Canyons - Alerts</string>
+			<key>EmailAccountName</key>
+			<string>Canyons Alerts</string>
+			<key>EmailAccountType</key>
+			<string>EmailTypeIMAP</string>
+			<key>EmailAddress</key>
+			<string>alert@thecanyonsatscenicloop.com</string>
+			<key>IncomingMailServerAuthentication</key>
+			<string>EmailAuthPassword</string>
+			<key>IncomingMailServerHostName</key>
+			<string>mail.thecanyonsatscenicloop.com</string>
+			<key>IncomingMailServerPortNumber</key>
+			<integer>993</integer>
+			<key>IncomingMailServerUseSSL</key>
+			<true/>
+			<key>IncomingMailServerUsername</key>
+			<string>alert@thecanyonsatscenicloop.com</string>
+			<key>OutgoingMailServerAuthentication</key>
+			<string>EmailAuthPassword</string>
+			<key>OutgoingMailServerHostName</key>
+			<string>mail.thecanyonsatscenicloop.com</string>
+			<key>OutgoingMailServerPortNumber</key>
+			<integer>465</integer>
+			<key>OutgoingMailServerUseSSL</key>
+			<true/>
+			<key>OutgoingMailServerUsername</key>
+			<string>alert@thecanyonsatscenicloop.com</string>
+			<key>OutgoingPasswordSameAsIncomingPassword</key>
+			<true/>
+			<key>PayloadDisplayName</key>
+			<string>Canyons - Alerts</string>
+			<key>PayloadIdentifier</key>
+			<string>com.thecanyonsatscenicloop.mail.alert</string>
+			<key>PayloadType</key>
+			<string>com.apple.mail.managed</string>
+			<key>PayloadUUID</key>
+			<string>259CFC46-26F7-454F-BD05-56FC93E3BEBE</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PreventAppSheet</key>
+			<false/>
+			<key>PreventMove</key>
+			<false/>
+			<key>SMIMEEnabled</key>
+			<false/>
+			<key>allowMailDrop</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>IMAP/SMTP via mail.thecanyonsatscenicloop.com</string>
+	<key>PayloadDisplayName</key>
+	<string>Canyons Mail (todd, form, alert)</string>
+	<key>PayloadIdentifier</key>
+	<string>com.thecanyonsatscenicloop.mail</string>
+	<key>PayloadOrganization</key>
+	<string>The Canyons at Scenic Loop</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>0B92B0D3-4BB4-4893-99E1-997AD559E0F3</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
